@@ -7,7 +7,7 @@
   "name": "@mbakereth/ldapjs-dn",
   "homepage": "https://github.com/ldapjs/dn",
   "description": "API for handling LDAP distinguished name strings",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@mbakereth/ldapjs-asn1": "2.0.1",
+    "@mbakereth/ldapjs-asn1": "2.0.2",
     "process-warning": "^2.1.0"
   },
   "devDependencies": {
